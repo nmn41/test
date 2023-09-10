@@ -1,5 +1,0 @@
-{{#user}}
-Name: Naman Mujawdiya
-Skills: HTML, CSS, JS, React.js
-Email: nm7613029@gmail.com
-{{/user}}
